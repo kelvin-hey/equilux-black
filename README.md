@@ -4,4 +4,4 @@
 Tema GTK baseado no Equilux Theme, onde foram feitas modificações para torna-lo em escala de preto e não cinza.
 
 ### Créditos
-Tema original <a href="https://github.com/ddnexus/equilux-theme">Equilux Theme</a>, seus criadores e idealizadores.
+Tema original <a href="https://github.com/ddnexus/equilux-theme">Equilux Theme</a>, seus autores e contribuidores.
